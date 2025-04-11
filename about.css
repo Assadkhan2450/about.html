@@ -1,3 +1,52 @@
+footer{
+  margin-top: 15px;
+}
 
+.footer-panel1{
+  background-color: gray ;
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85rem;
+}
+.footer-panel2{
+  background-color: gray;
+  color: white;
+  height: 120px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-right: 15px; 
+}
+ul{
+  margin-top: 20px;
+}
+ul a{
+
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 10px;
+  color: #dddddd;
+
+}
+
+.footer-panel3{
+  background-color: #222f3d;
+  color: white;
+  border-top: 0.5px solid white;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+  background-image: url("");
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+     
+}
 
 
